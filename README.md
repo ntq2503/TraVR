@@ -6,6 +6,6 @@ TraVR provides a realistic alternative experience to conventional travelling by 
 
 ## Demo
 
-[![TraVR Demo](https://gifs.com/gif/jYRrLB)](https://youtu.be/ejFHGL_Igf4)
+<img src="travrgif.gif" width="300px">
 
-<img src="travrgif.gif" width="200px">
+https://youtu.be/ejFHGL_Igf4
